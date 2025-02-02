@@ -1,0 +1,7 @@
+This is a sample text file.
+It contains a paragraph with multiple lines.
+The purpose of this file is to demonstrate how to read file contents in Node.js.
+Node.js provides an asynchronous method to read files.
+We will use this method to read and display the contents.
+This will be printed in the terminal.
+It is a simple exercise for learning file operations.
